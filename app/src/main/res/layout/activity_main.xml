@@ -78,6 +78,6 @@
             android:layout_height="fill_parent"
             android:layout_weight="1"
             android:background="@drawable/rounded_corners"
-            android:backgroundTint="#2ca5f5"/>
+            android:backgroundTint="#2ca5f5" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
