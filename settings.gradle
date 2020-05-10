@@ -1,0 +1,2 @@
+rootProject.name='Fit_or_flab'
+include ':app'
